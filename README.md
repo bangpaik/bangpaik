@@ -3,7 +3,6 @@
 - 🔭 At that movement I am doing BCA (Bachelors of Computer Application)
 - 🌱 I’m currently learning Flutter
 - 👯 open source contributor
-- 💬 Ask me about **PHP** **Express** **React JS** **Node JS** **Angular**
 - 📫 How to reach me: bangpaik1@gmail.com
 - 😄 Pronouns: Pronouns: Kadai Pandai
 - ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
@@ -18,11 +17,5 @@
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  
-</p>
-  <p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/bangpaik/count.svg" />
-     
-</p>
+
 
