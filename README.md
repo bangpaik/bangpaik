@@ -1,14 +1,4 @@
-<p align="center">
-
-   <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
-  
-</p>
-
 # Hi guys 👋  I'm Muhammad Fadli
-
-
-
-
 
 - 🔭 At that movement I am doing BCA (Bachelors of Computer Application)
 - 🌱 I’m currently learning Flutter
