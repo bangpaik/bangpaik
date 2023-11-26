@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Flutter
 - 👯 open source contributor
 - 📫 How to reach me: bangpaik1@gmail.com
-- 😄 Pronouns: Pronouns: Kadai Pandai
+- 😄 Pronouns: Kadai Pandai
 - ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
 
